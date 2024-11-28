@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 99ed0b24a92400c478ccbf6f15b22dc0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Futura PT
+  fontNames:
+  - Futura PT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f4b73d9064025d44c84731513e814b95, type: 3}
+  - {fileID: 12800000, guid: 31505fd273c3f9f4793e2b7cc71a002c, type: 3}
+  - {fileID: 12800000, guid: 224d2ae607922e246b4331a44adbff7d, type: 3}
+  - {fileID: 12800000, guid: 22a008274418d664cbc530e3c0d1a788, type: 3}
+  - {fileID: 12800000, guid: 379d6fbbc6848554195c6b2470019d43, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

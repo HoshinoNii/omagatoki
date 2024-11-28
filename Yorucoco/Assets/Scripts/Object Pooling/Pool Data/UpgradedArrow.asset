@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11caaf945f710fd46899ae84eac69642, type: 3}
+  m_Name: UpgradedArrow
+  m_EditorClassIdentifier: 
+  tag: UpgradedArrow
+  prefab: {fileID: 364113630021576037, guid: 3e0d3368d6b6cc64fa5a725d894576ac, type: 3}
+  Size: 20

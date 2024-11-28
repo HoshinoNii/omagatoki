@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ee4dd0a4abb2dd4b83c674e5e5ebe41, type: 3}
+  m_Name: ArcherTower
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 266b33ff073be35458317d215ddbbaa0, type: 3}
+  - {fileID: 8300000, guid: 7b942c39c011b954293bd4dcc4d086ea, type: 3}
+  - {fileID: 8300000, guid: 6d63c0e5b2e5cb04583abdd225cc04d3, type: 3}

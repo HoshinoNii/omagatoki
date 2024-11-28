@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53a5112d2d4e0544499cc47fe07c7a2d, type: 3}
+  m_Name: Wave 3
+  m_EditorClassIdentifier: 
+  WaveDetails:
+  - SpawnPosition: 0
+    enemyToSpawn: {fileID: 7297019291916179665, guid: 655e928636767ad45a444001e27dd88d,
+      type: 3}
+    Quantity: 1
+    TimeBeforeNextSpawn: 0
+    rate: 1
+  - SpawnPosition: 1
+    enemyToSpawn: {fileID: 7297019291916179665, guid: 655e928636767ad45a444001e27dd88d,
+      type: 3}
+    Quantity: 1
+    TimeBeforeNextSpawn: 2
+    rate: 1
+  - SpawnPosition: 0
+    enemyToSpawn: {fileID: 847611682754016114, guid: 42419bbb79f28164c9d09949ed03a605,
+      type: 3}
+    Quantity: 6
+    TimeBeforeNextSpawn: 0
+    rate: 1
+  - SpawnPosition: 0
+    enemyToSpawn: {fileID: 386732704441358550, guid: 5fe6071680cbde3428e09f52971ed9d4,
+      type: 3}
+    Quantity: 2
+    TimeBeforeNextSpawn: 0
+    rate: 1
+  - SpawnPosition: 1
+    enemyToSpawn: {fileID: 847611682754016114, guid: 42419bbb79f28164c9d09949ed03a605,
+      type: 3}
+    Quantity: 4
+    TimeBeforeNextSpawn: 0
+    rate: 1
+  - SpawnPosition: 1
+    enemyToSpawn: {fileID: 386732704441358550, guid: 5fe6071680cbde3428e09f52971ed9d4,
+      type: 3}
+    Quantity: 2
+    TimeBeforeNextSpawn: 0
+    rate: 1

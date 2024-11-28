@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11caaf945f710fd46899ae84eac69642, type: 3}
+  m_Name: ArcherTower_Blueprint
+  m_EditorClassIdentifier: 
+  tag: ArcherTower_Blueprint
+  prefab: {fileID: 5645638681234343745, guid: 4b85ed20a54e7304f9503d5848320df2, type: 3}
+  Size: 1
